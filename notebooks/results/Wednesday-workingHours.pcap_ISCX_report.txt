@@ -1,0 +1,13 @@
+ROC-AUC: 1.0000
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00     83348
+         1.0       1.00      1.00      1.00     38751
+
+    accuracy                           1.00    122099
+   macro avg       1.00      1.00      1.00    122099
+weighted avg       1.00      1.00      1.00    122099
+
+Matrice de confusion:
+[[83331    17]
+ [    7 38744]]
